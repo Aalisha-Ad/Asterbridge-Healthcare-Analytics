@@ -20,6 +20,17 @@ The project covers healthcare activity, clinical outcomes, workforce capacity, i
 
 ## Power BI Dashboard
 
+### Dashboard Preview
+
+![Asterbridge Healthcare Executive Overview](03_Screenshot/01_AsterBridge_Executive_Overview.png)
+
+The Executive Overview provides an interactive summary of healthcare encounters, waiting times, department activity and operational trends.
+
+**Explore the full dashboard:**
+- [View all five dashboard screenshots](03_Screenshot/)
+- [Download the Power BI dashboard](01_PowerBI/AsterBridge_Healthcare_Dashboard.pbix)
+- [Explore the SQL scripts](02_SQL/)
+
 The interactive dashboard contains five pages:
 
 1. **Executive Overview** — Encounter trends, patients, waiting times and departmental activity.
